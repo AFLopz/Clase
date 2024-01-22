@@ -1,6 +1,7 @@
 Ejercicio 1
   git config --global user.name "[Alejandro Feliciano Lopez]"
   git config --global user.email "[alexchiko05@gmail.com]"
+  git congig --global color.ui auto.
 
 Ejercicio 2
   mkdir libro
